@@ -9,7 +9,7 @@
 int main(int argc, char **argv)
 {
     //Defining all required variables
-	int num1, num2;
+    int num1, num2;
     double product, difference, sumSquareRoots; 
     
     printf("Enter two positive integers: "); //Asking user for input
